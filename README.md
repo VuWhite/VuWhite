@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VuWhite
 - 👀 I’m interested in Soccer
-- 🌱 I’m currently learning probability theory
+- 🌱 I’m currently preparing for 2023 ICPC
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: whitejinxuan@hotmail.com
 
