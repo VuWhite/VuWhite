@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VuWhite
 - 👀 I’m interested in HPC
-- 🌱 I’m currently preparing for 2023 ICPC
+- 🌱 I’m currently developing an internal tool for a company using .Net Framework and AngularJS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: whitejinxuan@hotmail.com
 
