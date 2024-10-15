@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VuWhite
-- 👀 I’m interested in HPC
-- 🌱 I’m currently developing an internal tool for a company using .Net Framework and AngularJS.
+- 👀 I’m interested in reading algorithm articles
+- 🌱 I’m currently working on a simulation of the operating system.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: whitejinxuan@hotmail.com
 
