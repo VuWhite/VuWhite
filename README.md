@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VuWhite
-- 👀 I’m interested in reading algorithm articles
-- 🌱 I’m currently working on a simulation of the operating system.
+- 👀 I’m interested in data sourcing pipeline
+- 🌱 I’m currently working on a growing winegrape.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: whitejinxuan@hotmail.com
 
